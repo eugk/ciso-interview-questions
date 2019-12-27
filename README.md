@@ -1,5 +1,5 @@
 # CISO Interview Questions
-This is a collection of questions to ask about the team and company when you're interviewing for a CISO position.
+This is a collection of questions to ask about the team and company when you're interviewing for a CISO position. I think most of it is also relevant for other security leadership roles.
 
 ## Company
 * Does the company tolerate brilliant jerks?
