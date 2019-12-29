@@ -39,4 +39,4 @@ This is a collection of questions to ask about the team and company when you're 
 * Do people get offices or is it an open space environment?
 * What’s the vacation policy?
 * How close to the office do most people live?
-* Is working from home once in a while practical?
+* Is working from home once in a while practical? What about fully remote work?
