@@ -22,7 +22,7 @@ This is a collection of questions to ask about the team and the company when you
 * Is there an on-call rotation or is everyone on-call all the time?
 
 ## Role
-* Who does the CISO report to?
+* Who does the CISO report to? Why?
 * Are priorities and incentives aligned between the CISO and management?
 * If you could focus on the CISO role fulltime yourself, what would you do?
 * How do you measure success for this role?
