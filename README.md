@@ -4,7 +4,7 @@ This is a collection of questions to ask about the team and the company when you
 ## Company
 * Does the company tolerate brilliant jerks?
 * Is the company sometimes willing to make culture or engineering tradeoffs in favor of security?
-* What's the company's risk management strategy?
+* What is the company's risk management strategy?
 * How are decisions made and communicated?
 * How are priorities decided between teams?
 * Does the company support community engagement, like speaking at conferences or contributing back to open source projects?
@@ -17,21 +17,21 @@ This is a collection of questions to ask about the team and the company when you
 * Is the team likely to grow and require hiring? Any missing skills that you can think of?
 * Does the CISO have authority to fire poor performers as a last resort?
 * How is security viewed by other teams?
-* How is the work/life balance like on the security team?
-* What's the ratio of reactive to proactive work?
+* How would you describe the team's work/life balance?
+* What is the ratio of reactive to proactive work?
 * Is there an on-call rotation or is everyone on-call all the time?
 
 ## Role
 * Who does the CISO report to? Why?
-* Are priorities and incentives aligned between the CISO and management?
-* If you could focus on the CISO role fulltime yourself, what would you do?
-* How do you measure success for this role?
+* Are priorities and incentives aligned between the CISO and upper management?
+* If you could focus on the CISO role fulltime yourself, what would you do? (Ask the hiring manager.)
+* How do you gauge or measure success for this role?
 
 ## Technical
-* How important are firewalls to your security model? (Where are you on the spectrum between a strong perimeter/soft middle and full zero trust?)
+* How important are firewalls to your security model? (Where are you on the spectrum between a hardend perimeter/soft middle and full zero trust?)
 * What is the company’s approach to technical debt?
-* Is the company moving towards cloud and away from on-prem systems, or is the long-term plan a hybrid solution?
-* What does the tech stack look like at a high level? Programming languages, operating systems, open source vs. commercial?
+* What is the cloud strategy, assuming there is one?
+* What does the tech stack look like at a high level? (Programming languages, operating systems, open source vs. commercial.)
 
 ## Tactical
 * How are IT support and operational responsibilities handled?
