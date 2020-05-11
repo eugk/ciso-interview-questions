@@ -8,7 +8,8 @@ This is a collection of questions to ask about the team and the company when you
 * How are decisions made and communicated?
 * How are priorities decided between teams?
 * Does the company support community engagement, like speaking at conferences or contributing back to open source projects?
-* How important is managing a budget? Is the company willing to spend as needed, or is a lot of justification required?
+* Is the company willing to spend as needed, or is a lot of justification required?
+* If there's a set security budget, what is it and what's the budget management process?
 
 ## Team
 * What is the team’s current make up in terms of seniority and expertise?
@@ -23,8 +24,9 @@ This is a collection of questions to ask about the team and the company when you
 
 ## Role
 * Who does the CISO report to? Why?
+* What is the envisioned scope of this role?
 * Are priorities and incentives aligned between the CISO and upper management?
-* If you could focus on the CISO role fulltime yourself, what would you do? (Ask the hiring manager.)
+* If you could focus on the CISO role full-time yourself, what would you do? (Ask the hiring manager.)
 * How do you gauge or measure success for this role?
 
 ## Technical
